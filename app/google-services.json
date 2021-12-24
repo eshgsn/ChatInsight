@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "672732023831",
+    "project_id": "chatinsight-51681",
+    "storage_bucket": "chatinsight-51681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672732023831:android:226e4c0f57c7daba07a052",
+        "android_client_info": {
+          "package_name": "com.example.chatinsight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672732023831-ohfq4thar364ia08n4tpnvp5b5u7t82p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqb_3fBQUwoGLVCz7PUwlNLDmon39WtoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672732023831-ohfq4thar364ia08n4tpnvp5b5u7t82p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
